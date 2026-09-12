@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+
+# Local artifact workspace
+.artifacts/
+
+# OS generated files
+.DS_Store
+Thumbs.db
